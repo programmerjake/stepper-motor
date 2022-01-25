@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1365186796 source:/home/jacob/CodeBlocks Projects/AVR/stepper-motor/main.c
+	<avr/io.h>
+	<util/delay.h>
+	<util/atomic.h>
+	<math.h>
+	<stdlib.h>
+
